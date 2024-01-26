@@ -1,0 +1,22 @@
+﻿@model String
+
+@{
+    ViewData["Title"] = "Thank You";
+}
+<h1>@ViewData["Title"]</h1>
+<div>
+    
+
+    @if (Model == "Yes")
+    {
+            <div>
+                Thank you for submitting your response! We are thrilled that you will be joining us!
+            </div>
+    }
+    else
+    {
+            <div>
+                 Thank you for submitting your response! We are sorry that you wont't be joining us!
+            </div>
+    }
+</div>

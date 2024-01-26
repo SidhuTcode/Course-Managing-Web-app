@@ -1,0 +1,37 @@
+﻿@model CourseViewModel
+@{
+    ViewData["Title"] = "Edit an Course";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" asp-action="Edit">
+    <div class="text-danger" asp-validation-summary="All"></div>
+    <input type="hidden" asp-for="ActiveCourse.CourseId" />
+    <div class="mb-3">
+        <label class="form-label" asp-for="ActiveCourse.CourseName">Name</label>
+        <span class="form-text text-danger" asp-validation-for="ActiveCourse.CourseName"></span>
+        <input class="form-control" type="text" asp-for="ActiveCourse.CourseName" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="ActiveCourse.Instructor">Instructor Name</label>
+        <span class="form-text text-danger" asp-validation-for="ActiveCourse.Instructor"></span>
+        <input class="form-control" type="text" asp-for="ActiveCourse.Instructor" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="ActiveCourse.StartDate">Start Date</label>
+        <span class="form-text text-danger" asp-validation-for="ActiveCourse.StartDate"></span>
+        <input class="form-control" type="date" asp-for="ActiveCourse.StartDate" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="ActiveCourse.RoomNumber">Room Number</label>
+        <span class="form-text text-danger" asp-validation-for="ActiveCourse.RoomNumber"></span>
+        <input class="form-control" type="text" asp-for="ActiveCourse.RoomNumber" />
+    </div>
+
+    <input type="submit" class="btn btn-primary" value="Save" />
+    <a class="btn btn-secondary" asp-controller="Course" asp-action="List">Cancel</a>
+
+</form>

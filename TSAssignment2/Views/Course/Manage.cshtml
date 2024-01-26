@@ -1,0 +1,121 @@
+﻿@model ManageCourseViewModel
+@using TSAssignment2.Entities
+
+@{
+    ViewData["Title"] = "Manage Your Course";
+    var invitationStatusMapping = new Dictionary<EnrollmentConfirmationStatus, string>
+    {
+        [EnrollmentConfirmationStatus.ConfirmationMessageNotSent] = "Enrollment confirmation not sent",
+        [EnrollmentConfirmationStatus.ConfirmationMessageSent] = "Enrollment confirmation  sent",
+        [EnrollmentConfirmationStatus.EnrollmentConfirmed] = "Enrollment confirmed",
+        [EnrollmentConfirmationStatus.EnrollmentDeclined] = "Enrollment Declined",
+
+    };
+}
+<h1>Manage Your Course</h1>
+<div class="mb-3">
+    <a asp-controller="Course" asp-action="List">All Courses</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Course" asp-action="Add">Add a new course</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Course" asp-action="Edit" asp-route-id="@Model?.Course?.CourseId">Edit this course</a>
+</div>
+
+<div>
+    <h6>Course Summary:</h6>
+    <p>
+        The course "@Model?.Course?.CourseName" 
+        is in room @Model?.Course?.RoomNumber 
+        starting on @Model?.Course?.StartDate?.ToString("MMM dd,yyyy") 
+        and the instructor is "@Model?.Course?.Instructor".
+    </p>
+</div>
+
+<div class="row g-3 align-items-center"></div>
+
+@if (TempData.ContainsKey("notify"))
+{
+    <div class="alert alert-@TempData["className"] alert-dismissible fade show" role="alert">
+        @TempData["notify"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+<div class="row g-3 align-items-center">
+    <div class="col-auto">Invent not sent: @Model?.CountConfirmationMessageNotSent</div>
+    <div class="col-auto">Sent Count: @Model?.CountConfirmationMessageSent</div>
+    <div class="col-auto">Confirmed Count: @Model?.CountEnrollmentConfirmed</div>
+    <div class="col-auto"> Declined Count: @Model?.CountEnrollmentDeclined</div>
+</div>
+
+
+<div>
+    <h6>Students:</h6>
+    @if (Model?.Course?.Students?.Count > 0)
+    {
+        <table class="table table-bordered table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Enrollment Status</th>
+
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var student in Model.Course.Students)
+                {
+                    <tr>
+                        <td>@student.StudentName</td>
+                        <td><a href="mailto:@student.StudentEmail">@student.StudentEmail</a></td>
+                        <td>@invitationStatusMapping[student.Status]</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-primary" role="alert">
+                No student yet - you should add some!😊
+        </div>
+
+    }
+
+</div>
+
+<form class="row g-3 align-items-center" method="post" asp-action="AddStudent" asp-route-courseId="@Model?.Course?.CourseId">
+    <div class="col-auto">
+        <label class="form-label" asp-for="Student.StudentName">
+
+        </label>
+        <span class="form-text text-danger" asp-validation-for="Student.StudentName"></span>
+    </div>
+    <div class="col-auto">
+        <input class="form-control" type="text" asp-for="Student.StudentName" />
+    </div>
+    <div class="col-auto">
+        <label class="form-label" asp-for="Student.StudentEmail">
+
+        </label>
+        <span class="form-text text-danger" asp-validation-for="Student.StudentEmail"></span>
+    </div>
+    <div class="col-auto">
+        <input class="form-control" type="text" asp-for="Student.StudentEmail" />
+
+    </div>
+    <div class="col-auto">
+        <input class="btn btn-primary" type="submit" value="Create Student"/>
+    </div>
+
+</form>
+
+<h6>
+    Actions:
+</h6>
+
+<form class="col-auto" method="post" asp-action="SendInvitation" asp-route-courseId="@Model?.Course?.CourseId">
+    <input class="btn btn-primary" type="submit" value="Send confirmation message" />
+</form>

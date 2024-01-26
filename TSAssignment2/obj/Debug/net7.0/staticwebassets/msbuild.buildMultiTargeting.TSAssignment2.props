@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TSAssignment2.props" />
+</Project>

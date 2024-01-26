@@ -1,0 +1,225 @@
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.AssemblyReference.cache
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.AssemblyInfoInputs.cache
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.AssemblyInfo.cs
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.CoreCompileInputs.cache
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.MvcApplicationPartsAssemblyInfo.cache
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.RazorAssemblyInfo.cache
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.RazorAssemblyInfo.cs
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\appsettings.Development.json
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\appsettings.json
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.staticwebassets.runtime.json
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.exe
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.deps.json
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.runtimeconfig.json
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.pdb
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Azure.Core.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Azure.Identity.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Humanizer.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.CodeDom.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.TSAssignment2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.build.TSAssignment2.props
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TSAssignment2.props
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TSAssignment2.props
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets.build.json
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets.development.json
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\scopedcss\bundle\TSAssignment2.styles.css
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\scopedcss\projectbundle\TSAssignment2.bundle.scp.css
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.CopyComplete
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\refint\TSAssignment2.dll
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.pdb
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.genruntimeconfig.cache
+D:\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\ref\TSAssignment2.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\appsettings.Development.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\appsettings.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.staticwebassets.runtime.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.exe
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.deps.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.runtimeconfig.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\TSAssignment2.pdb
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Azure.Core.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Azure.Identity.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Humanizer.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.CodeDom.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.AssemblyReference.cache
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.AssemblyInfoInputs.cache
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.AssemblyInfo.cs
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.CoreCompileInputs.cache
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.RazorAssemblyInfo.cache
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.RazorAssemblyInfo.cs
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets.build.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets.development.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.TSAssignment2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.build.TSAssignment2.props
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TSAssignment2.props
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TSAssignment2.props
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\scopedcss\bundle\TSAssignment2.styles.css
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\scopedcss\projectbundle\TSAssignment2.bundle.scp.css
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.CopyComplete
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\refint\TSAssignment2.dll
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.pdb
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\TSAssignment2.genruntimeconfig.cache
+D:\Sem 3\MS PROG\TSAssignment2\TSAssignment2\obj\Debug\net7.0\ref\TSAssignment2.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\appsettings.Development.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\appsettings.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\TSAssignment2.staticwebassets.runtime.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\TSAssignment2.exe
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\TSAssignment2.deps.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\TSAssignment2.runtimeconfig.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\TSAssignment2.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\TSAssignment2.pdb
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Azure.Core.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Azure.Identity.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Humanizer.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.CodeDom.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.AssemblyReference.cache
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.AssemblyInfoInputs.cache
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.AssemblyInfo.cs
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.CoreCompileInputs.cache
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.RazorAssemblyInfo.cache
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.RazorAssemblyInfo.cs
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\staticwebassets.build.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\staticwebassets.development.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.TSAssignment2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.build.TSAssignment2.props
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TSAssignment2.props
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TSAssignment2.props
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\scopedcss\bundle\TSAssignment2.styles.css
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\scopedcss\projectbundle\TSAssignment2.bundle.scp.css
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.csproj.CopyComplete
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\refint\TSAssignment2.dll
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.pdb
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\TSAssignment2.genruntimeconfig.cache
+D:\Sem 3\MS PROG\Course Managing Web app\TSAssignment2\obj\Debug\net7.0\ref\TSAssignment2.dll
